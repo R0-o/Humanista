@@ -1,0 +1,17 @@
+.dropzone {
+  margin-bottom: 25px;
+  text-align: center;
+  color:#aba6aa;
+  font-size: 24px ;
+  background-color: #ede4e3 ;
+  margin-top: 15px;
+  padding: 20px 10px 20px 10px;
+}
+
+.accept {
+  background-color:#a3ebb1 !important;
+}
+
+.reject {
+  background-color: #f57971c1 !important
+}

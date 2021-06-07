@@ -1,0 +1,30 @@
+.accent-color {
+  background-color: #0b0909;
+}
+
+.error-color {
+  background-color: #f57971c1 !important;
+}
+
+h1,
+h2 {
+  color: #252930;
+  font-size: 52px;
+  font-family: "Signika", sans-serif;
+  text-align: center;
+  margin-top: 60px;
+}
+
+a{
+  color: #d6d6d6;
+}
+
+a:hover {
+  color: #bdc7c9;
+}
+
+.customContainer {
+  min-height: 40vh;
+}
+
+
