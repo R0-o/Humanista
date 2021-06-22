@@ -1,7 +1,6 @@
 ### App ###
 
-/src/main/resources
-/src/main/java/site/humanista/service
+/src/main/resources/application.properties
 .mvn/wrapper/
 .mvnw
 .mwnw.cmd
